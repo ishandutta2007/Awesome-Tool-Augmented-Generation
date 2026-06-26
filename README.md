@@ -10,7 +10,10 @@ Tool-Augmented Generation (TAG)—closely intertwined with Agentic Workflows and
 The technical integration of external software tools with language networks has transitioned from manual prompt-engineered wrappers to native tool-calling layers and self-correcting agentic graphs.
 
 ```mermaid
-[Prompt-Based Loops (ReAct, 2022)] ----> [Native Tool-Calling API Layers] ----> [Unified Protocol Ecosystems (MCP, 2024+)](Handcrafted Zero-Shot Text RegEx)         (Fine-Tuned JSON Schema Outputs)          (Standardized Client-Server Tool Abstractions)
+flowchart LR
+    A["Prompt-Based Loops (ReAct, 2022)<br/>(Handcrafted Zero-Shot Text RegEx)"]
+    --> B["Native Tool-Calling API Layers<br/>(Fine-Tuned JSON Schema Outputs)"]
+    --> C["Unified Protocol Ecosystems (MCP, 2024+)<br/>(Standardized Client-Server Tool Abstractions)"]
 ```
 
 
