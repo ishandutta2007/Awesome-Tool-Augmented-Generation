@@ -81,3 +81,15 @@ Deploying Tool-Augmented workflows inside enterprise production stacks introduce
 | [**Autonomous Software Development & Repository Maintenance (Devin / SWE-Agents)**](details/autonomous_dev.md) | **Application:** Solves complex software tickets. The tool-augmented network clones a repository, reads structural code trees via terminal commands, executes unit tests inside localized sandboxes, reads compiler errors, and refactors bugs iteratively until all tests pass. | 2024 | [SWE-agent: Agent-Computer Interfaces Enable LLMs to Resolve Real-World GitHub Issues](https://arxiv.org/abs/2405.15793) |
 | [**Automated Corporate Financial & Tax Auditing Workflows**](details/financial_auditing.md) | **Application:** Processes multi-departmental corporate profiles. TAG systems invoke SQL queries to isolate transaction variances, route data through Python data analysis blocks to calculate tax liabilities, and draft verified audit summaries automatically. | 2023 | [Towards Automated Regulatory Compliance Verification in Financial Auditing with Large Language Models](https://arxiv.org/abs/2507.16642) |
 | [**Enterprise Customer Relationship Management (CRM) Orchestration**](details/crm_orchestration.md) | **Application:** Powers intelligent consumer service networks. When a user details a product issue, the TAG engine queries active shipping APIs, references internal inventory catalogs, checks client refund policy tiers, and issues localized resolution steps without human intervention. | 2024 | [CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments](https://arxiv.org/abs/2411.02305) |
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Tool-Augmented-Generation&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tool-Augmented-Generation&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tool-Augmented-Generation&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Tool-Augmented-Generation&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
